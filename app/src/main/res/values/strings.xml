@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">M-Expense</string>
+    <string name="TripName">Name of trip</string>
+    <string name="Destination">Destination</string>
+    <string name="TripDate">Date of the trip</string>
+    <string name="Risk">Risk Assessment</string>
+    <string name="TripDescription">Trip Description</string>
+    <string name="InfoName">Trip Name</string>
+    <string name="InfoDestination">Trip Destination</string>
+    <string name="InfoDate">Date of the Trip</string>
+    <string name="InfoRisk">Risk Assessment</string>
+    <string name="InfoDescription">Trip Description</string>
+    <string name="Type">Type Of Expense</string>
+    <string name="amount">Amount</string>
+    <string name="time">Time</string>
+    <string name="comments">Addition Comments</string>
+    <string name="addexpense">Add</string>
+    <string name="showexpenses">Show All Expenses</string>
+</resources>
